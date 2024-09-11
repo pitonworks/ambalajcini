@@ -1,7 +1,3 @@
-İşte daha profesyonel ve teknik detaylar içeren bir README örneği:
-
----
-
 # ambalajcini.com - E-Ticaret Platformu
 
 ## Proje Tanıtımı
